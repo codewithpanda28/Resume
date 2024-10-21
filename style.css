@@ -250,6 +250,11 @@ footer {
 .project-card p {
     margin-bottom: 15px;
 }
+.project-card img:hover {
+    scroll-behavior: smooth;
+ transform: scale(1.1);
+}
+
 
 .btn {
     display: inline-block;
